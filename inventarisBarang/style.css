@@ -1,0 +1,62 @@
+.jumbotron {
+  padding: 6rem;
+  background-color: #ffffff;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+/* CSS pada file style.css */
+
+/* Form Pengajuan */
+form {
+  margin-left: 20px; /* Memberikan margin dari sisi kiri pada form */
+}
+
+/* Label form-control */
+.form-label {
+  width: 150px; /* Menentukan lebar label sesuai kebutuhan */
+}
+
+/* Form control */
+.form-control {
+  width: calc(100% - 170px); /* Menyesuaikan lebar form control agar sesuai dengan lebar label */
+  display: inline-block; /* Agar form control tampil dalam satu baris dengan label */
+  vertical-align: middle; /* Menengahkan form control sesuai dengan label */
+}
+
+/* CSS pada file style.css */
+
+body {
+  margin: 0; /* Menghilangkan margin bawaan dari browser */
+  padding: 0; /* Menghilangkan padding bawaan dari browser */
+}
+
+.container {
+  margin-left: 20px; /* Memberikan margin dari sisi kiri pada container */
+  margin-right: 20px; /* Memberikan margin dari sisi kanan pada container */
+}
+
+/* Form Pengajuan */
+form {
+  margin-top: 20px; /* Memberikan margin ke atas pada form */
+  margin-bottom: 20px; /* Memberikan margin ke bawah pada form */
+}
+
+/* Label form-control */
+.form-label {
+  width: 150px; /* Menentukan lebar label sesuai kebutuhan */
+}
+
+/* Form control */
+.form-control {
+  width: calc(100% - 170px); /* Menyesuaikan lebar form control agar sesuai dengan lebar label */
+  display: inline-block; /* Agar form control tampil dalam satu baris dengan label */
+  vertical-align: middle; /* Menengahkan form control sesuai dengan label */
+}
+
+/* Footer */
+footer {
+  margin-top: 20px; /* Memberikan margin ke atas pada footer */
+}
